@@ -1,0 +1,16 @@
+{
+    "_default": {
+        "1": {
+            "name": "Данные пользователя",
+            "login": "email",
+            "tel": "phone"
+        },
+        "2": {
+            "name": "Форма заказа",
+            "customer": "text",
+            "order_id": "text",
+            "order_date": "date",
+            "contact": "phone"
+        }
+    }
+}
